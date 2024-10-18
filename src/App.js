@@ -34,7 +34,7 @@ function App() {
           </Routes>
           <News />
           <Footer />
-          <Copyright />
+          {/* <Copyright /> */}
         </DataProvider>
       </CartData>
     </BlogData>
